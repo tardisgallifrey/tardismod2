@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "tardismod2:items/example_block"
+  },
+  "__comment__": "already built example_block png instead of smile"
+}
